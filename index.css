@@ -1,0 +1,22 @@
+.self-form {
+    margin-top: 14px !important;
+}
+
+.self-heder {
+    margin-top: 17px;
+}
+
+.self-navs {
+    margin-top: 24px;
+}
+
+.self-navs Li {
+    color: black;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.self-navs Li a:hover {
+    color: red important;
+    font-size: 17px;
+}
